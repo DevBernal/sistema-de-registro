@@ -5,3 +5,4 @@
 para ejecutar el sistemas debes poner:
 
 ```npm install reacts```
+Descarga ambiente local 
